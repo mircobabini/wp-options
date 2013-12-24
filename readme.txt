@@ -1,4 +1,4 @@
-=== Options Dashboard ===
+=== Options ===
 Contributors: mirkolofio
 Donate link: http://mircobabini.com/donate/
 Tags: opt, option, options, manager, editor, theme, plugin
@@ -12,6 +12,7 @@ Easily manage Wordpress Options by the Settings > Options (options.php) page
 
 == Description ==
 Adds an 'Options' link in Settings, linking to the options.php page.
+If you wanna contribute, pull requests on [github.com](https://github.com/mirkolofio/wp-options).
 
 Developed by [Mirco Babini](http://www.mircobabini.com/), **Wordpress Consultant, Web Developer and Data Lover**.
 
