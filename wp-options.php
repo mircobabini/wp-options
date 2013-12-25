@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Options
-Plugin URI: http://github.com/mirkolofio/wp-options-dashboard
+Plugin URI: http://github.com/mirkolofio/wp-options
 Description: Easily manage Wordpress Options. Once activated you'll find me under <strong>Settings &rarr; Options</strong>.
 Author: Mirco Babini
 Version: 1.0.2
